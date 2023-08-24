@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T13:33:13.169Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_b-13Lk3ARbqIxwbD-N1" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T14:00:07.234Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="eJBQev4c9glm799sLDS_" version="21.0.6" type="github">
   <diagram name="Page-1" id="b2X0Cin1PfoKi7R9eayR">
     <mxGraphModel dx="2736" dy="3094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -175,6 +175,11 @@
         <mxCell id="fTQG1C9vcmR5dNO8YUxH-46" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#E3E0EE;strokeColor=#967EE2;opacity=50;strokeWidth=2;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="955.14" y="-1085.25" width="58" height="29" as="geometry" />
         </mxCell>
+        <UserObject label="Collaboration is expensive 12:21-17:35&lt;br&gt;&lt;a href=&quot;https://youtu.be/P7NIbMxlC7E?si=A2dOF7VtOiTCJtcF&amp;amp;t=751&quot;&gt;https://youtu.be/P7NIbMxlC7E?si=A2dOF7VtOiTCJtcF&amp;amp;t=751&lt;/a&gt;&lt;br&gt;&lt;br&gt;Cognitive Load (e.g. documentation only, responsibility falls to VS) 17:36-23:26&lt;br&gt;&lt;a href=&quot;https://youtu.be/P7NIbMxlC7E?si=KtvM2DLCz8nRPdUz&amp;amp;t=1056&quot;&gt;https://youtu.be/P7NIbMxlC7E?si=KtvM2DLCz8nRPdUz&amp;amp;t=1056&lt;/a&gt;" linkTarget="_blank" id="fTQG1C9vcmR5dNO8YUxH-48">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="120" y="-1570" width="360" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
