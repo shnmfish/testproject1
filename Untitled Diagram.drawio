@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-24T14:08:22.846Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ynI77cU8uWjAVQm6lwc2" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T14:09:18.571Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sNYUfnHkpFjIgv3_0q5m" version="21.0.6" type="github">
   <diagram name="Page-1" id="b2X0Cin1PfoKi7R9eayR">
     <mxGraphModel dx="2736" dy="3094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
           <mxGeometry x="774" y="-939" width="600" height="70" as="geometry" />
         </mxCell>
         <mxCell id="JFUwCKO8B1FGGGvDRDL4-8" value="Azure" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="822.5" y="-1172.25" width="55.72" height="58.5" as="geometry" />
+          <mxGeometry x="1098.75" y="-1085.5" width="55.72" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="JFUwCKO8B1FGGGvDRDL4-9" value="Value Stream" style="shape=stencil(tVRRboMwDD2NPztBoqH2swvlAtsFUnDbqCFBIW232y/EVBpaodMEX+Q9288vIQ5w0Z5kg8ASI2sEngNj796hrFdbrY4GqxD6CDDwYXWjjJQlhE+Esx7KtsHSE3eVTsm9Roq03tkz3lTl+xLW8XwHyRY6sQS4KK0xoVxZ0w4iP+JBRirjA/4kmb7x1wA16FSNHl3vllhgxd9lX16XEU4X8juUvbuf3e98wkPH6VI/bjbh9P+yXARm7HJzsZfl+ejsxVQPzcSI68Zq+tI/Gc2HpkZac3GwDic80TSXVlsXCPrGbsB4UeSbLJs+4IPSeqx6l7+tn1eTg4mk0YS48V/7iyw9hZH4Bg==);whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFEDB8;strokeColor=#FFD966;" parent="1" vertex="1">
           <mxGeometry x="804" y="-1390" width="320" height="40" as="geometry" />
@@ -166,7 +166,7 @@
         <mxCell id="fTQG1C9vcmR5dNO8YUxH-43" value="as-needed" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1180" y="-1205" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fTQG1C9vcmR5dNO8YUxH-44" value="CI/CD" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" vertex="1" parent="1">
+        <mxCell id="fTQG1C9vcmR5dNO8YUxH-44" value="Application&lt;br&gt;Hosting" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="949.14" y="-1173.75" width="55.72" height="58.5" as="geometry" />
         </mxCell>
         <UserObject label="Collaboration is expensive 12:21-17:35&lt;br&gt;&lt;a href=&quot;https://youtu.be/P7NIbMxlC7E?si=A2dOF7VtOiTCJtcF&amp;amp;t=751&quot;&gt;https://youtu.be/P7NIbMxlC7E?si=A2dOF7VtOiTCJtcF&amp;amp;t=751&lt;/a&gt;&lt;br&gt;&lt;br&gt;Cognitive Load (e.g. documentation only, responsibility falls to VS) 17:36-23:26&lt;br&gt;&lt;a href=&quot;https://youtu.be/P7NIbMxlC7E?si=KtvM2DLCz8nRPdUz&amp;amp;t=1056&quot;&gt;https://youtu.be/P7NIbMxlC7E?si=KtvM2DLCz8nRPdUz&amp;amp;t=1056&lt;/a&gt;" linkTarget="_blank" id="fTQG1C9vcmR5dNO8YUxH-48">
@@ -179,6 +179,9 @@
         </mxCell>
         <mxCell id="fTQG1C9vcmR5dNO8YUxH-54" value="" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="977.1399999999999" y="-1085.5" width="55.72" height="58.5" as="geometry" />
+        </mxCell>
+        <mxCell id="fTQG1C9vcmR5dNO8YUxH-55" value="Ephemeral&lt;br&gt;Test Envs" style="verticalLabelPosition=middle;verticalAlign=bottom;html=1;shape=mxgraph.basic.acute_triangle;dx=0.5;strokeColor=#999696;strokeWidth=2;fillColor=#B4B4B4;fontFamily=Helvetica;labelPosition=center;align=center;sketch=0;opacity=50;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="-1172.62" width="55.72" height="58.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
